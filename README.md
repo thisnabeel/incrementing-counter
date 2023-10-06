@@ -1,8 +1,10 @@
-React Counter Component
-A basic React counter component implemented using Redux for state management.
+# React Counter Component
 
-Overview
-This counter component allows you to increment and decrement a numeric value. It utilizes Redux to manage the state and comes with an input field to customize the increment amount.
+A simple React counter component with Redux state management.
+
+## Overview
+
+This React component provides a basic counter functionality with features like increment, decrement, and a customizable increment amount. The state is managed using Redux for efficient state handling.
 
 Usage
 Install dependencies:
